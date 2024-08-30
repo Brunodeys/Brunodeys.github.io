@@ -119,8 +119,6 @@
     position: relative;
     width: 410px; /* Largura da imagem principal */
     height: 300px; /* Altura da imagem principal */
-    margin-left:230px ;
-    margin-top: 400px;
     
     
 }
@@ -129,6 +127,7 @@
     width: 100%;
     height: auto;
     display: block;
+    margin-left: 30px;
     
 }
 
